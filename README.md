@@ -5,7 +5,7 @@ Welcome to my repository for advanced Python homework! This repository serves as
 The repository is organized by homework sets, each named HomeworkN, where N represents the week number. Inside each homework set, you'll find Python scripts numbered sequentially. These scripts are solutions to the weekly programming assignments and cover a range of advanced Python concepts.
 
 # Structure:
-Homework01/: Lists as Stacks and Queues
+Homework01/: [Lists as Stacks and Queues]{https://github.com/Yani-Jivkov/Python-Advanced/tree/main/Homework1}
 
 Homework02/: Exercise: Lists as Stacks and Queues
 
