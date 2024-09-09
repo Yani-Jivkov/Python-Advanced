@@ -1,4 +1,4 @@
-## Programming Advanced with Python - Homework Repository
+# Programming Advanced with Python - Homework Repository
 Welcome to my repository for advanced Python homework! This repository serves as a personal archive of coding assignments completed throughout advanced Python courses. Each homework set corresponds to specific topics covered in the advanced Python curriculum.
 
 # Repository Structure
